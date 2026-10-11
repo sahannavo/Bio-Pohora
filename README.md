@@ -4,13 +4,6 @@
   <b>A Human-Centered Digital Agriculture Platform Modernizing Fertilizer Subsidy Distribution in Sri Lanka</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Mobile%20%26%20Web-brightgreen?style=flat-square" alt="Platform" />
-  <img src="https://img.shields.io/badge/Design%20Tool-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Domain-AgriTech%20%7C%20GovTech-blue?style=flat-square" alt="Domain" />
-  <img src="https://img.shields.io/badge/Focus-HCI%20%26%20UX%20Design-orange?style=flat-square" alt="Focus" />
-</p>
-
 ---
 
 ## 📌 Overview
