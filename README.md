@@ -264,11 +264,7 @@ We would like to thank everyone who contributed to this project, especially our 
 
 ---
 
-## 🏷️ Tags
 
-`#AgriTech` `#GovTech` `#UIUX` `#Figma` `#MobileAppDesign` `#DesignThinking` `#DigitalSriLanka` `#StudentProject` `#FarmersFirst` `#UXDesign`
-
----
 
 ## 📝 Note
 
